@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions / build files (if building locally)
+*.c
+*.o
+*.obj
+
+# Internal / Confidential Documentation
+PROJECT_MASTER_DOCUMENTATION.md
+
+# OS and Editor metadata
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+.vscode/
+.idea/

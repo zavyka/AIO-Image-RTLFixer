@@ -1,0 +1,34 @@
+# Copyright & License Agreement
+
+**Project:** KurdRTLFixer (AIO Image RTLFixer)  
+**Developer:** KiaKu_1982  
+**GitHub:** https://github.com/zavyka  
+**Telegram:** @Rayan_Ku | Channel: @Enigma2_Tutorials  
+
+---
+
+### Copyright (c) 2026 KiaKu_1982. All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to install, run, and utilize the Software for **personal, non-commercial purposes** on compatible DreamOS / Enigma2 satellite and digital receivers, subject to the following strict conditions:
+
+---
+
+### 1. Ownership & Intellectual Property
+The Software, including its source code, compiled binary shared objects (`.so`), algorithms, graphic assets, typography configurations, and documentation, is and remains the exclusive intellectual property of **KiaKu_1982**. This agreement does not convey any ownership rights or title in the Software to the user.
+
+### 2. Restrictions & Prohibitions
+You explicitly agree NOT to:
+1. **Reverse-Engineer:** Decompile, disassemble, reverse-engineer, or attempt to extract the underlying source code or algorithms of the compiled binary modules (`.so`).
+2. **Tamper or Circumvent:** Remove, modify, alter, bypass, or circumvent any built-in cryptographic integrity checks, anti-tamper mechanisms, SHA-256 verification routines, or security features.
+3. **Rebrand or Alter Credits:** Remove, conceal, or modify the developer's name (**KiaKu_1982**), GitHub repository links, Telegram identifiers (`@Rayan_Ku`, `@Enigma2_Tutorials`), the official `plugin.png` asset, or the About dialog.
+4. **Commercial Use:** Sell, rent, lease, sublicense, monetize, or charge any fee for the Software, whether standalone or bundled with third-party software or firmware images.
+5. **Unauthorized Modification & Derivative Works:** Create unauthorized forks, clones, or derivative versions that claim false authorship or strip existing copyright notices.
+
+### 3. Redistribution Terms
+Redistribution of the Software (including pre-built `.deb` packages or installation archives) is permitted across forums, blogs, community channels, and repositories, provided that:
+* It is distributed **free of charge**.
+* The distribution is in its **original, complete, and unmodified state**, including this `LICENSE` file and original credits.
+* Clear and visible attribution is given to **KiaKu_1982** with links to the official GitHub repository.
+
+### 4. Disclaimer of Warranty & Limitation of Liability
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
