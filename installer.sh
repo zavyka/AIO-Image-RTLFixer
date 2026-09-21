@@ -10,7 +10,7 @@ echo "=========================================================="
 echo "    Installing AIO Image RTLFixer for DreamOS ARM64       "
 echo "=========================================================="
 
-URL="https://github.com/zavyka/AIO-Image-RTLFixer/releases/download/v1.0.0-r0/enigma2-plugin-extensions-aio-image-rtlfixer_1.0.0-r0_arm64.deb"
+URL="https://github.com/zavyka/AIO-Image-RTLFixer/releases/download/v1.1.0-r1/enigma2-plugin-extensions-aio-image-rtlfixer_1.1.0-r1_arm64.deb"
 TMP_DEB="/tmp/rtlfixer.deb"
 
 echo "[1/4] Downloading installation package..."
